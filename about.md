@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Hello, I'm Nimmi Mathew.
-<img src="https://github.com/Nimmi12/Nimmi12.github.io/blob/master/nimmi.JPG?raw=true" width="400" height="300" style="border-radius: 50%;"/>
+<img src="https://github.com/Nimmi12/Nimmi12.github.io/blob/master/images/nimmi.JPG?raw=true" width="400" height="300" style="border-radius: 50%;"/>
 
 I'm a software engineer living in Toronto,Canada. 
 
